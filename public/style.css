@@ -1,0 +1,11 @@
+.carousel-img {
+    max-height: 92vh;
+    object-fit: cover;
+    width: 100%;
+}
+
+.carousel-caption {
+    background-color: #14141480;
+    color: white;
+    padding: 20px;
+}
